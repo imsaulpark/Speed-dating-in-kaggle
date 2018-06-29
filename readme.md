@@ -18,3 +18,6 @@ http://faculty.chicagobooth.edu/emir.kamenica/documents/genderDifferences.pdf
 # Topic
 ## 1. Change one's thinking about attribute to decision.
 will be added after...
+
+## 3. Decision According to the Field
+will be added after...
